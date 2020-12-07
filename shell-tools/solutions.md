@@ -1,13 +1,15 @@
-#!/bin/sh
-
 # Exercise 1
+```bash
 ls -lah --color
+```
 
 # Exercise 2
-# see marco.sh
+See marco.sh
 
 # Exercise 3
-# see until_fail.sh
+See until_fail.sh
 
 # Exercise 4
+```
 find . -name "*.html" | xargs -d "\n" zip html.zip
+```
